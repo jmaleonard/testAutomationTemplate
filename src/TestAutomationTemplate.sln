@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomationTemplate", "TestAutomationTemplate\TestAutomationTemplate.csproj", "{9ADBD221-70EE-4026-AED7-5B9CC4BE8948}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExampleMVPApplication", "ExampleMVPApplication", "{C3A685F9-9957-4EEA-80A4-ED3AB4E4436F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleMVPApplication", "ExampleMVPApplication\ExampleMVPApplication.csproj", "{8FEFAE61-AEC8-48CC-B35D-97FA9A919F68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Standards", "Standards", "{E69FB157-0954-4801-A81F-5C30190B32D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StyleCop", "StyleCop", "{1B097EAC-C672-4DD0-98D2-28EF74C23CE0}"
+	ProjectSection(SolutionItems) = preProject
+		Standards\StyleCop\Settings.StyleCop = Standards\StyleCop\Settings.StyleCop
+		Standards\StyleCop\StyleCop.CSharp.dll = Standards\StyleCop\StyleCop.CSharp.dll
+		Standards\StyleCop\StyleCop.CSharp.Rules.dll = Standards\StyleCop\StyleCop.CSharp.Rules.dll
+		Standards\StyleCop\StyleCop.dll = Standards\StyleCop\StyleCop.dll
+		Standards\StyleCop\StyleCop.Targets = Standards\StyleCop\StyleCop.Targets
+		Standards\StyleCop\StyleCop.VSPackage.dll = Standards\StyleCop\StyleCop.VSPackage.dll
+		Standards\StyleCop\StyleCopSettingsEditor.bat = Standards\StyleCop\StyleCopSettingsEditor.bat
+		Standards\StyleCop\StyleCopSettingsEditor.exe = Standards\StyleCop\StyleCopSettingsEditor.exe
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{3CBFFFAD-209C-412C-A3ED-1CC47F1E35FA}"
+	ProjectSection(SolutionItems) = preProject
+		Standards\StyleCop\Docs\StyleCop.chm = Standards\StyleCop\Docs\StyleCop.chm
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jmaleonard.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TestAutomationTemplate\\TestAutomationTemplate.csproj
+		SccProjectName1 = TestAutomationTemplate
+		SccLocalPath1 = TestAutomationTemplate
+		SccProjectUniqueName2 = ExampleMVPApplication\\ExampleMVPApplication.csproj
+		SccProjectTopLevelParentUniqueName2 = TestAutomationTemplate.sln
+		SccProjectName2 = ExampleMVPApplication
+		SccLocalPath2 = ExampleMVPApplication
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADBD221-70EE-4026-AED7-5B9CC4BE8948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADBD221-70EE-4026-AED7-5B9CC4BE8948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADBD221-70EE-4026-AED7-5B9CC4BE8948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADBD221-70EE-4026-AED7-5B9CC4BE8948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FEFAE61-AEC8-48CC-B35D-97FA9A919F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEFAE61-AEC8-48CC-B35D-97FA9A919F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FEFAE61-AEC8-48CC-B35D-97FA9A919F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FEFAE61-AEC8-48CC-B35D-97FA9A919F68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8FEFAE61-AEC8-48CC-B35D-97FA9A919F68} = {C3A685F9-9957-4EEA-80A4-ED3AB4E4436F}
+		{1B097EAC-C672-4DD0-98D2-28EF74C23CE0} = {E69FB157-0954-4801-A81F-5C30190B32D7}
+		{3CBFFFAD-209C-412C-A3ED-1CC47F1E35FA} = {1B097EAC-C672-4DD0-98D2-28EF74C23CE0}
+	EndGlobalSection
+EndGlobal

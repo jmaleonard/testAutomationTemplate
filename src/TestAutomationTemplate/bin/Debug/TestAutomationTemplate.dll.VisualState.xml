@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1044]C:\Users\jared.leonard@wonga.com\Desktop\Development\TestAutomationTemplate\TestAutomationTemplate\bin\Debug\TestAutomationTemplate.dll</TopNode>
+  <SelectedNode>[0-1042]TestAutomationTemplate.Features.GoogleSearchFeature.SearchGoogle("IPhone4SLandscape","Barney Loves me",null)</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1044]C:\Users\jared.leonard@wonga.com\Desktop\Development\TestAutomationTemplate\TestAutomationTemplate\bin\Debug\TestAutomationTemplate.dll" Expanded="true" />
+    <Node UniqueName="[0-1045]TestAutomationTemplate" Expanded="true" />
+    <Node UniqueName="[0-1046]TestAutomationTemplate.Features" Expanded="true" />
+    <Node UniqueName="[0-1026]TestAutomationTemplate.Features.GoogleSearchFeature" Expanded="true" />
+    <Node UniqueName="[0-1027]TestAutomationTemplate.Features.GoogleSearchFeature.SearchGoogle" Expanded="true" />
+    <Node UniqueName="[0-1011]TestAutomationTemplate.Features.InvestmentListingSearchFeature" Expanded="true" />
+    <Node UniqueName="[0-1012]TestAutomationTemplate.Features.InvestmentListingSearchFeature.InvestmentListingSearch" Expanded="true" />
+    <Node UniqueName="[0-1000]TestAutomationTemplate.Features.KimcoSmokeTestFeature" Expanded="true" />
+    <Node UniqueName="[0-1001]TestAutomationTemplate.Features.KimcoSmokeTestFeature.KimcoRealty" Expanded="true" />
+    <Node UniqueName="[0-1025]TestAutomationTemplate.SmokeTest.TestController" Expanded="true" />
+    <Node UniqueName="[0-1017]TestAutomationTemplate.SmokeTest.ExampleTest" Expanded="true" />
+    <Node UniqueName="[0-1047]TestAutomationTemplate.UnitTests" Expanded="true" />
+    <Node UniqueName="[0-1006]TestAutomationTemplate.UnitTests.ExchangeRateControllerPresenterUnitTest" Expanded="true" />
+  </Nodes>
+</VisualState>

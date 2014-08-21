@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionary>
+	<Words>
+		<Unrecognized>
+			<Word></Word>
+		</Unrecognized>
+		<Recognized>
+			<Word>Colour</Word>
+			<Word>Elmah</Word>
+			<Word>Div</Word>
+			<Word>Equiv</Word>
+			<Word>Regear</Word>
+			<Word>Mezz</Word>
+			<Word>Jv</Word>
+			<Word>Tishman</Word>
+			<Word>Flexcel</Word>
+			<Word>Pdf</Word>
+			<Word>Gacs</Word>
+			<Word>Api</Word>
+		</Recognized>
+		<Deprecated>
+			<Term PreferredAlternate=""></Term>
+		</Deprecated>
+		<Compound>
+			<Term CompoundAlternate=""></Term>
+		</Compound>
+		<DiscreteExceptions>
+			<Term>TestIs</Term>
+			<Term>UnderDevelopment</Term>
+			<Term>SubTotal</Term>
+		</DiscreteExceptions>
+	</Words>
+	<Acronyms>
+		<CasingExceptions>
+			<Acronym>Api</Acronym>
+			<Acronym>gacs</Acronym>
+			<Acronym>Gacs</Acronym>
+			<Acronym>IRR</Acronym>
+			<Acronym>ITRS</Acronym>
+			<Acronym>GACS</Acronym>
+			<Acronym>Elmah</Acronym>
+			<Acronym>EQM</Acronym>
+			<Acronym>REIT</Acronym>
+			<Acronym>Co</Acronym>
+			<Acronym>USD</Acronym>
+			<Acronym>BRL</Acronym>
+			<Acronym>INR</Acronym>
+			<Acronym>GBP</Acronym>
+			<Acronym>EUR</Acronym>
+			<Acronym>CNY</Acronym>
+			<Acronym>GAV</Acronym>
+			<Acronym>NAV</Acronym>
+			<Acronym>LTV</Acronym>
+		</CasingExceptions>
+	</Acronyms>
+</Dictionary>

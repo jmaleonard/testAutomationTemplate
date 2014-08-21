@@ -1,0 +1,9 @@
+﻿This folder holds all the custom defined attributes. 
+Currently in use are:
+
+Unit Attribute - Used for unit tests
+Integration Attribute - Used for integration tests 
+FunctionalUI Atrribute - Used for UI tests
+SmokeTest Atrribute - Used for UI smoke tests
+MethodDescription - Used to describe methods within the page objects This is used within reporting to return the page that failed within the page object.
+

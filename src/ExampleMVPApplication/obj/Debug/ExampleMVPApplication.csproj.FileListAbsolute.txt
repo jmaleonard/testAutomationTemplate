@@ -1,0 +1,5 @@
+C:\Users\jared.leonard@wonga.com\Desktop\Development\TestAutomationTemplate\ExampleMVPApplication\bin\Debug\ExampleMVPApplication.dll
+C:\Users\jared.leonard@wonga.com\Desktop\Development\TestAutomationTemplate\ExampleMVPApplication\bin\Debug\ExampleMVPApplication.pdb
+C:\Users\jared.leonard@wonga.com\Desktop\Development\TestAutomationTemplate\ExampleMVPApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jared.leonard@wonga.com\Desktop\Development\TestAutomationTemplate\ExampleMVPApplication\obj\Debug\ExampleMVPApplication.dll
+C:\Users\jared.leonard@wonga.com\Desktop\Development\TestAutomationTemplate\ExampleMVPApplication\obj\Debug\ExampleMVPApplication.pdb

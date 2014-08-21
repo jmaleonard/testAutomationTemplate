@@ -1,0 +1,95 @@
+﻿This file will outline the function TestAutomationTemplate.Core classes.
+
+<-------------------------------- EventLogger.cs --------------------------------------->
+
+Theis class is responsible for printing out the logs when running tests on your chosen build server
+
+<------------------------------- BaseClass.cs ---------------------------------------->
+
+BaseClass is responsible for starting up the Web Browser for Testing. 
+
+It contains the following methods. 
+
+void Navigate(string url)
+	Navigates browser to the given URL
+
+string GetBrowserNameAndVersion()
+	Returns the browser name and the current version that is running.
+
+void StartDriver(WebBrowser webBrowser)
+	This method starts up the webBrowser given the WebBrowser type.
+	<-------------------------------------------------------------->
+	Currently there are two types of Ie WebBrowsers. One uses the 
+	native browser bindings, the other makes use of selenium grid bindings. 
+	They both will behave the same way on run time just Ie type requires selenium
+	server to be running on your machine which can be located (P:\Automation Tests\Selenium Server)
+	The advantages on running the server on your machine is that it will handle all the cleaning 
+	up of dead browser sessions on your machine, The time out to clean out dead sessions
+    can be altered in the DefaultNode.json.
+
+	<----------------------------------------------------------------------------------->
+
+	<------------------------------- CustomConfiguration.cs ---------------------------->
+
+	This class serves as a wrapper for the App.config. All values added to the App.config should be 
+	accessed through this class.
+
+	<----------------------------------------------------------------------------------->
+
+
+	<------------------------------- MobileDeviceSizes.cs ---------------------------->
+
+	This class is responsible for retrieving the mobile devices sizes and pass it to the driver.
+	typical use of this class would be as follows. 
+
+	 BaseClass.Driver.Manage().Window.Size = MobileDeviceSizes.Select(Device); // where device is of type MobileDevice enum
+
+	<----------------------------------------------------------------------------------->
+
+	<------------------------------- ScreenRecordingControls.cs ------------------------>
+
+	This class is responsible for starting and stopping vlc to record the screen resolution. 
+
+	<----------------------------------------------------------------------------------->
+
+	<------------------------------- ScreenShotImage.cs -------------------------------->
+
+	This is a class that ScreenShotRemoteWebDriver implements in order to have the screenshot capabilities 
+	when running ScreenShotRemoteWebDriver.
+
+	<------------------------------- ScreenShotRemoteWebDriver.cs ---------------------->
+
+	This class is an extension of RemoteWebDriver and implements ITakeScreenshot. It just implements 
+	GetScreenShot to add the capability to ScreenShotRemoteWebDriver.
+
+	<----------------------------------------------------------------------------------->
+
+    <------------------------------- SmokeTestResult.cs -------------------------------->
+
+	Responsible for capturing the smoketest results. All properties used here are used for
+	reporting purposes. 
+
+	<----------------------------------------------------------------------------------->
+
+	<------------------------------- TestResult.cs ------------------------------------->
+
+	Responsible for capturing the UI test results. All properties used here are used for
+	reporting purposes. 
+
+	<----------------------------------------------------------------------------------->
+
+	<-------------------------------- TabPage.cs --------------------------------------->
+
+	An implementation of the Open Box Tabbed Pages. The TabPage contains the following 
+	properties. 
+
+		string TabName: Name of the tab
+		string LocatorString: The locator string that will be used to find the tab on the page
+		Enums.Locator: The type of locator enum that the locator string refers to.
+		string PageElement: The pageElement of type Locator type ID to find on the page
+		string FirstNestedFrame: The first iframe to switch too if the tab page is located with and iframe
+		string SecondNestedFrame: The second iframe to switch too if the tab page is located with and iframe
+
+		//if the page has more than one iframe then well, rewrite it. 
+		 
+	<----------------------------------------------------------------------------------->

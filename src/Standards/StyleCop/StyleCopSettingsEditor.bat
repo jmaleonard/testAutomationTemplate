@@ -1,0 +1,1 @@
+StyleCopSettingsEditor Settings.StyleCop

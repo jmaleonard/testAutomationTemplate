@@ -1,0 +1,10 @@
+﻿To generate a unit test and integration test report requires us to run the the nunit test via command line. (Which is done via Jenkins)
+When setting out your build steps in Jenkins create your nunit command to kick off tests as follows
+
+nunit-console.exe <<Jenkins created temp folder>Path to the built project file>
+
+then a second step after this to transform the TestResult.xml to HTML
+
+specflow.exe nunitexecutionreport <<Jenkins created temp folder>Path to the built project file> /xsltFile:"ExecutionReport.xslt /out:"C:\Reports\MyResult.html"
+
+The file name in the out parameter needs to be the path that Jenkins will archive

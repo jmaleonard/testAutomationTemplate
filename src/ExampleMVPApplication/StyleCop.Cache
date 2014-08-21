@@ -1,0 +1,150 @@
+<stylecopresultscache>
+  <version>11</version>
+  <sourcecode name="IView.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:19</timestamp>
+    <milliseconds>191</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IErrorView.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:18</timestamp>
+    <milliseconds>840</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IExchangeRatesControllerView.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:18</timestamp>
+    <milliseconds>834</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="GenericPresenterBase.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:19</timestamp>
+    <milliseconds>475</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IExchangeRatesView.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:19</timestamp>
+    <milliseconds>197</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExchangeRatesControllerPresenter.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:19</timestamp>
+    <milliseconds>189</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExchangeRateModel.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:19</timestamp>
+    <milliseconds>468</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExchangeRateControllerViewModel.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:19</timestamp>
+    <milliseconds>493</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExchangeRate.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:19</timestamp>
+    <milliseconds>181</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExchangeRateViewModel.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:19</timestamp>
+    <milliseconds>752</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExchangeRatesPresenter.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:19</timestamp>
+    <milliseconds>518</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExchangeRateListViewModel.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:19</timestamp>
+    <milliseconds>547</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IExchangeRatesDao.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:18</timestamp>
+    <milliseconds>852</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name=".NETFramework,Version=v4.0.AssemblyAttributes.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/16/2014 12:31:50</timestamp>
+    <milliseconds>986</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:19</timestamp>
+    <milliseconds>475</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Period.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:19</timestamp>
+    <milliseconds>528</milliseconds>
+    <violations />
+  </sourcecode>
+  <project key="233581390">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+</stylecopresultscache>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\jared.leonard@wonga.com\Desktop\Development\TestAutomationTemplate\TestAutomationTemplate\bin\Debug\TestAutomationTemplate.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-01-17" time="00:53:18">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5472" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="SA-WK-124" user="jared.leonard" user-domain="WONGA" />
+  <culture-info current-culture="en-ZA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\jared.leonard@wonga.com\Desktop\Development\TestAutomationTemplate\TestAutomationTemplate\bin\Debug\TestAutomationTemplate.dll" executed="True" result="Success" success="True" time="10.406" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestAutomationTemplate" executed="True" result="Success" success="True" time="10.406" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Features" executed="True" result="Success" success="True" time="10.405" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="GoogleSearchFeature" description="Google Search" executed="True" result="Success" success="True" time="10.405" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="SearchGoogle" description="Search Google" executed="True" result="Success" success="True" time="10.405" asserts="0">
+                    <categories>
+                      <category name="FunctionalUI" />
+                    </categories>
+                    <results>
+                      <test-case name="TestAutomationTemplate.Features.GoogleSearchFeature.SearchGoogle(&quot;IPhone4SLandscape&quot;,&quot;Barney Loves me&quot;,null)" executed="True" result="Success" success="True" time="10.404" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

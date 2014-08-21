@@ -1,0 +1,46 @@
+﻿This file will outline the function TestAutomationTemplate.Helpers classes.
+
+<-------------------------------------------------- Download file.cs ----------------------------------------------------------------------------->
+
+This class is used to interact with internet explorer download file dialog. 
+Typical usage is as follows. 
+When we try to download a file webdriver throws an expection as the page does not stop loading
+until the file is downloaded so we use the following method from Navigation class
+	ClickElementByIdAndIgnoreExceptions(string elementID)
+Once we have clicked on the button we call the method from Navigation DownloadFileInternetExplorer(string path + filename).
+This will save the file to given directory.
+
+Important Note. Ensure that displaying file extension are enabled (In control panel) when using this method. 
+
+<------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<-------------------------------------------------- ExceptionHelper.cs --------------------------------------------------------------------------->
+
+When the page object methods throw an exceptions and it is passed to the Steps.cs class. It analyzes the exception to see where it occured and sends
+back the path the method took until it failed. 
+
+<------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<------------------------------------------------------- Navigation.cs --------------------------------------------------------------------------->
+
+All page objects inherit from this class. 
+This class contains wrappers for all interactions with the browser. The methods defined in here are standard. If you wish to extend them feel free.
+The once defined here should be enought to automate most page
+
+<------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<------------------------------------------------------------ Steps.cs --------------------------------------------------------------------------->
+
+This class is used to call methods from page objects. The reason for this is that it will act as a wrapper for these methods incase they fail. 
+The Invoke method take in a method name, the current test result object and the method parameters. If the method that you are calling from the page
+object has no method parameter then you can leave the last argument blank. See Example steps for usage.
+
+<------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<------------------------------------------------------------ Wait.cs ---------------------------------------------------------------------------->
+
+The Wait class provides a set of methods that can be used when building page objects. It has a set of methods and can simply be called by 
+
+		Wait.<MethodName>
+
+<------------------------------------------------------------------------------------------------------------------------------------------------->

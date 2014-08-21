@@ -1,0 +1,492 @@
+<stylecopresultscache>
+  <version>11</version>
+  <sourcecode name="MethodDescription.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:25</timestamp>
+    <milliseconds>919</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="BugId.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:25</timestamp>
+    <milliseconds>644</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IntegrationAttribute.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:25</timestamp>
+    <milliseconds>817</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SmokeTestAttribute.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:25</timestamp>
+    <milliseconds>968</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FunctionalUIAttribute.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:25</timestamp>
+    <milliseconds>664</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="EventLogger.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:24</timestamp>
+    <milliseconds>701</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="GooglePageObject.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:30</timestamp>
+    <milliseconds>560</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="UnitAttribute.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:26</timestamp>
+    <milliseconds>117</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="BaseClass.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:24</timestamp>
+    <milliseconds>456</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="KimcoRealtyPageObject.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:30</timestamp>
+    <milliseconds>703</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExceptionHelper.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:30</timestamp>
+    <milliseconds>71</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ITRS_InvestmentsPage.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:30</timestamp>
+    <milliseconds>610</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Steps.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:30</timestamp>
+    <milliseconds>163</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CustomConfiguration.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:24</timestamp>
+    <milliseconds>808</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ScreenShotRemoteWebDriver.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:25</timestamp>
+    <milliseconds>97</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ScreenShotImage.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:25</timestamp>
+    <milliseconds>101</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ScreenRecordingControls.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:24</timestamp>
+    <milliseconds>979</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SmokeTestResult.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:25</timestamp>
+    <milliseconds>263</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MobileDeviceSizes.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:24</timestamp>
+    <milliseconds>728</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TabPage.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:25</timestamp>
+    <milliseconds>375</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DownloadFile.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:30</timestamp>
+    <milliseconds>62</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CheckBoxValue.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:28</timestamp>
+    <milliseconds>499</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="EventType.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:29</timestamp>
+    <milliseconds>57</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TestResult.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:25</timestamp>
+    <milliseconds>378</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Wait.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:30</timestamp>
+    <milliseconds>257</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Navigation.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:30</timestamp>
+    <milliseconds>117</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Locator.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:29</timestamp>
+    <milliseconds>223</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TestStatus.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:29</timestamp>
+    <milliseconds>333</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="WebBrowser.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:29</timestamp>
+    <milliseconds>507</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:30</timestamp>
+    <milliseconds>765</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MobileDevice.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:29</timestamp>
+    <milliseconds>224</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DropDownSelectionType.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:28</timestamp>
+    <milliseconds>783</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExampleTest.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:31</timestamp>
+    <milliseconds>483</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name=".NETFramework,Version=v4.0.AssemblyAttributes.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/16/2014 12:31:50</timestamp>
+    <milliseconds>986</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="BeforeAndAfter.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:31</timestamp>
+    <milliseconds>731</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SmokeTestGenerateReport.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:30</timestamp>
+    <milliseconds>897</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TestController.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:31</timestamp>
+    <milliseconds>480</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="InvestmentListingSearchSteps.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:31</timestamp>
+    <milliseconds>784</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="KimcoSmokeTestSteps.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:31</timestamp>
+    <milliseconds>859</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExchangeRateControllerPresenterUnitTest.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:32</timestamp>
+    <milliseconds>13</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="InvestmentListingSearch.feature.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:29</timestamp>
+    <milliseconds>790</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="KimcoSmokeFeature.feature.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:29</timestamp>
+    <milliseconds>891</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="GoogleSearch1.feature.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/15/2014 18:00:29</timestamp>
+    <milliseconds>610</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="GoogleSearchSteps.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/17/2014 00:52:01</timestamp>
+    <milliseconds>37</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>49</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="ReportJavaScript.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/17/2014 09:41:59</timestamp>
+    <milliseconds>292</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="GenerateReport.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/15/2014 18:00:23</timestamp>
+      <milliseconds>210</milliseconds>
+    </settings>
+    <timestamp>01/17/2014 09:44:53</timestamp>
+    <milliseconds>226</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="SingleLineCommentMustBePrecededByBlankLine" ruleCheckId="SA1515">
+        <context>A single-line comment must be preceded by a blank line or another single-line comment, or must be the first item in its scope. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>126</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="SingleLineCommentsMustNotBeFollowedByBlankLine" ruleCheckId="SA1512">
+        <context>A single-line comment must not be followed by a blank line. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>150</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>126</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>128</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>129</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>130</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>131</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>132</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>133</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>134</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>135</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>138</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>150</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <project key="-746917063">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+</stylecopresultscache>
